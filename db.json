@@ -2,34 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "tasks": [
-    {
-    id: 1,
-    text: 'Doctor Appointment',
-    completed: false,
-    onEdit: false
-    },
-    {
-    id: 2,
-    text: 'Meeting at School',
-    completed: false,
-    onEdit: false
-    },
-    {
-    id: 3,
-    text: 'Meeting at School',
-    completed: true,
-    onEdit: false
-    },
-    {
-    id: 4,
-    text: 'Meeting at School',
-    completed: false,
-    onEdit: false
-    }
-    ]
-    }
-  ],
+      "tasks": [{id": 1, text": 'Doctor Appointment',"completed": false, "onEdit": false}],
   "profile": {
     "name": "typicode"
   }
