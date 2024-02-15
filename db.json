@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "tasks": [{id": 1, text": 'Doctor Appointment',"completed": false, "onEdit": false}],
+      "tasks": [{"id": 1, "text": "Doctor Appointment","completed": false, "onEdit": false}],
   "profile": {
     "name": "typicode"
   }
